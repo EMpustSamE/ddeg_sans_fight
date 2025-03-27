@@ -1,0 +1,11 @@
+_time = 0;
+_frame_skip = 0;
+_frame_skipped = 0;
+volume = 1;
+global.blur_amount = 0;
+global.classic_ui = true;
+global.kr = false;
+global.debug = true;
+global.surface_gui = surface_create(640, 480);
+global.event_overworld = "event_overworld";
+global.event_phone = "event_phone";

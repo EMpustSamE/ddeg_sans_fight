@@ -1,0 +1,7 @@
+Battle_SetTurnInfo(BATTLE_TURN.TIME,beat.BeatToFrames(44));
+
+Battle_SetTurnInfo(BATTLE_TURN.BOARD_SIZE_DURATION,0);
+/*Battle_SetTurnInfo(BATTLE_TURN.BOARD_DOWN,70);
+Battle_SetTurnInfo(BATTLE_TURN.BOARD_UP,70);
+Battle_SetTurnInfo(BATTLE_TURN.BOARD_LEFT,70);
+Battle_SetTurnInfo(BATTLE_TURN.BOARD_RIGHT,70);*/
