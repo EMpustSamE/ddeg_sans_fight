@@ -6,3 +6,4 @@ string/font.json
 string/shop.json
 string/settings.json
 string/credits.json
+string/games.json

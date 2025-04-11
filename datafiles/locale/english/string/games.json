@@ -1,0 +1,17 @@
+{
+    "games.corridor": "{instant true}{align 1 1}Corridor",
+    "games.phase1": "{instant true}{align 1 1}Phase 1",
+    "games.phase2": "{instant true}{align 1 1}Phase 2",
+    "games.phase3": "{instant true}{align 1 1}Phase 3",
+    "games.phase4": "{instant true}{align 1 1}Phase 4",
+    "games.shop": "{instant true}{align 1 1}Shop",
+    "games.sndenc": "{instant true}{align 1 1}Snowdin Encounter",
+
+    "games.start": "{instant true}{align 1 1}&[Z/Enter] or Click with cursor to Start",
+    "games.na": "{instant true}{align 1 1}&Not available yet",
+    "games.quit": "{instant true}{align 1 1}{scale 2}{font FONT.DIALOG}Quit&{scale 1}(X/Shift)",
+
+    "games.hintshop": "{instant true}{align 2 1}{font FONT.MENU}{scale 2}(Shop)",
+    "games.hintminigames": "{instant true}{align 2 1}{font FONT.MENU}{scale 2}(Minigames {insert PRE})",
+    "games.hintbattle": "{instant true}{align 2 1}{font FONT.MENU}{scale 2}(Battles {insert PRE})"
+}

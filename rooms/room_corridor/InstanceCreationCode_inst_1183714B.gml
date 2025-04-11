@@ -1,0 +1,1 @@
+text = "{color `red`}* 1 left.";
