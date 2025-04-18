@@ -6,6 +6,6 @@ function Event_Create(){
 	    timer: 0,
 	    active: false,
 	    paused: false,
-	    lastCustomIndex: -1,
+	    lastCustomIndex: -1
 	};
 }

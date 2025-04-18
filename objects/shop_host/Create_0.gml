@@ -3,6 +3,7 @@ encounter_text = noone;
 menu_text = noone;
 
 host_sprite = noone;
+host_sprite_scale = 1;
 
 shop_item[0] = noone;
 shop_item[1] = noone;

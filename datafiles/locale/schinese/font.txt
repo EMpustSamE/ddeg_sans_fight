@@ -5,3 +5,5 @@ font/comic_sans.ini
 font/papyrus.ini
 font/simsun.ini
 font/fzxs14.ini
+font/fzse.ini
+font/fzjkt.ini

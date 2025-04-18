@@ -383,6 +383,8 @@ case "choice":
 		}else if(is_string(cmd[|1])||is_undefined(cmd[|1])){
 			_choice_macro=cmd[|1];
 			_choice=0;
+			Anim_Create(id,"_choice_soul_x",ANIM_TWEEN.CUBIC,ANIM_EASE.OUT,_choice_soul_x,_choice_x[_choice] - _choice_soul_x,0);
+			Anim_Create(id,"_choice_soul_y",ANIM_TWEEN.CUBIC,ANIM_EASE.OUT,_choice_soul_y,_choice_y[_choice] - _choice_soul_y,0);
 		}
 		break;
 

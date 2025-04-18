@@ -1,0 +1,5 @@
+{
+    "dialog.test": "* 测试文本",
+    "dialog.corridorback": "{color `red`}* 你已经没有退路了。",
+    "dialog.corridorsave": "{color `red`}* 还剩1个。"
+}

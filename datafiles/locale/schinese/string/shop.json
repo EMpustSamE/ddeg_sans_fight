@@ -1,8 +1,25 @@
 {
-    "shop.menu": "  Buy&  Sell&  Talk&  Exit",
-    "shop.buy": "Buy it for&{insert GOLD}G?& Yes& No",
-    "shop.sell": "Sell it for {insert GOLD}G?&&",
-    "shop.sell.confirm": "   Yes                 No",
-    "shop.exit": "Exit",
-    "shop.exit.white": "{color `white`}Exit"
+    "shop.menu": "  购买&  售卖&  交谈&  退出",
+    "shop.buy": "以{insert GOLD}G买下它?&& 是& 否",
+    "shop.sell": "以{insert GOLD}G卖掉它?&&",
+    "shop.sell.confirm": "   是                 否",
+    "shop.exit": "退出",
+    "shop.exit.white": "{color `white`}退出",
+
+    "shop.emp.menu": "* 我趣是EM大跌111",
+    "shop.emp.buy.b": "这是些&能买的。",
+    "shop.emp.buy.a": "好耶&钱钱",
+    "shop.emp.buy.l": "没钱?",
+    "shop.emp.buy.t": "你带了太多&东西了。{sleep 10}扔了吧。",
+    "shop.emp.sell": "* 卖?{sleep 10}&* 玩我哪?",
+    "shop.emp.talk": "想问点啥?",
+    "shop.emp.talk.0": "关于这个游戏",
+    "shop.emp.talk.1": "关于你",
+    "shop.emp.talk.2": "如果我发现bug咋办",
+    "shop.emp.talk.3": "贴图跟粑粑似的",
+    "shop.emp.talk.0.ans": "* 这游戏?{sleep 10}&* 这游戏还没弄完呢。",
+    "shop.emp.talk.1.ans": "* 我?{sleep 10}&* 我啥也不是。",
+    "shop.emp.talk.2.ans": "* bug?{sleep 10}&* 联系我就行。{sleep 10}&* QQ:3213409620。",
+    "shop.emp.talk.3.ans": "* 是我知道。{sleep 10}&* 但我没钱约贴图，&  我只能自己整了。",
+    "shop.emp.exit": "拜拜,下次买东西见。"
 }

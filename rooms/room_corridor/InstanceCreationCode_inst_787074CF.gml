@@ -1,2 +1,2 @@
 visible = false;
-text = "{color `red`}* There is no way back."
+text = Lang_GetString("dialog.corridorback");

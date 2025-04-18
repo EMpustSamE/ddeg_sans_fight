@@ -21,7 +21,7 @@ function GameSelectionGetInfo(){
 	case -1:
 		text+=Lang_GetString("games.shop")
 		spr=spr_shopping_cart
-		enabled=false
+		enabled=true
 		break
 	case 0:
 		text+=Lang_GetString("games.sndenc")
@@ -29,7 +29,7 @@ function GameSelectionGetInfo(){
 		enabled=true
 		break
 	case 1:
-		text+="{instant true}{align 1 1}Normal Route Sans Fight"
+		text+=Lang_GetString("games.ne")
 		spr=spr_enemy_sans_nep1
 		enabled=true
 		phases=4

@@ -7,5 +7,6 @@ border_width = shop.border_width;
 
 _background = shop._background;
 _host = shop._host.host_sprite;
+_scale = shop._host.host_sprite_scale;
 
 depth = 99;

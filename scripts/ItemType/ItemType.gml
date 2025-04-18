@@ -26,7 +26,7 @@ function ItemType() constructor {
 		return _price_sell;
 	}
 	function GetShopDescription() {
-		return _shop_description;
+		return (_shop_description == "" ? _name : _shop_description);
 	}
 
     function OnUse(inventory, index) {}

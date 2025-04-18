@@ -1,1 +1,1 @@
-text = "{color `red`}* 1 left.";
+text = Lang_GetString("dialog.corridorsave");

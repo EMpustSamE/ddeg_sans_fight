@@ -43,6 +43,7 @@ function Lang_LoadFont() {
 					var src_path=filename_path(PATH)+src;
 					if(file_exists(src_path)){
 						FONT=font_add(src_path,size,bold,italic,first,last);
+						font_add_enable_aa(false);
 					}
 				}else{
 					if(Lang_IsSpriteExists(src)){

@@ -1,0 +1,18 @@
+{
+    "games.corridor": "{instant true}{align 1 1}长廊",
+    "games.phase1": "{instant true}{align 1 1}第  1阶段",
+    "games.phase2": "{instant true}{align 1 1}第  2阶段",
+    "games.phase3": "{instant true}{align 1 1}第  3阶段",
+    "games.phase4": "{instant true}{align 1 1}第  4阶段",
+    "games.shop": "{instant true}{align 1 1}商店",
+    "games.sndenc": "{instant true}{align 1 1}雪镇遭遇战",
+    "games.ne": "{instant true}{align 1 1}中立路线  Sans战",
+
+    "games.start": "{instant true}{align 1 1}&按下  [Z/Enter]或点击鼠标以开始",
+    "games.na": "{instant true}{align 1 1}&暂不可用",
+    "games.quit": "{instant true}{align 1 1}{scale 2}{font FONT.DIALOG}退出&{scale 1}(X/Shift)",
+
+    "games.hintshop": "{instant true}{align 2 1}{font FONT.MENU}{scale 2}(商店)",
+    "games.hintminigames": "{instant true}{align 2 1}{font FONT.MENU}{scale 2}(小游戏 {insert PRE})",
+    "games.hintbattle": "{instant true}{align 2 1}{font FONT.MENU}{scale 2}(战斗 {insert PRE})"
+}

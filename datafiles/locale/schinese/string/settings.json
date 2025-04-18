@@ -1,18 +1,18 @@
 {
-    "settings.title": "Settings",
+    "settings.title": "游戏设置",
 
-    "settings.language": "Language",
-    "settings.volume": "Volume",
-    "settings.border": "Border",
-    "settings.fullscreen": "Fullscreen",
-    "settings.classic": "Classic UI",
-    "settings.back": "Save \\& Back",
+    "settings.language": "语言",
+    "settings.volume": "音量",
+    "settings.border": "边框",
+    "settings.fullscreen": "全屏",
+    "settings.classic": "经典UI",
+    "settings.back": "保存并退出",
 
-    "settings.na": "{color `red`}N/A",
-    "settings.language.index": "English",
-    "settings.border.none": "None",
-    "settings.border.simple": "Simple",
+    "settings.na": "{color `red`}不可用",
+    "settings.language.index": "简体中文",
+    "settings.border.none": "无",
+    "settings.border.simple": "简约",
 
-    "settings.on": "On",
-    "settings.off": "Off"
+    "settings.on": "开",
+    "settings.off": "关"
 }

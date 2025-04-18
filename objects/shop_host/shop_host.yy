@@ -14,8 +14,8 @@
   "name":"shop_host",
   "overriddenProperties":[],
   "parent":{
-    "name":"Shop",
-    "path":"folders/Objects/Shop.yy",
+    "name":"host",
+    "path":"folders/Objects/Shop/host.yy",
   },
   "parentObjectId":null,
   "persistent":false,

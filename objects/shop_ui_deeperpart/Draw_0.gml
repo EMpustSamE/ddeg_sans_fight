@@ -1,5 +1,5 @@
 draw_sprite(_background,0,0,0);
-draw_sprite(_host,0,160,118);
+draw_sprite_ext(_host,0,160,118,_scale,_scale,0,c_white,1);
 var _state = shop._state;
 if(_state==SHOP_STATE.BUY)
 {

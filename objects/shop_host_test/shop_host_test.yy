@@ -8,8 +8,8 @@
   "name":"shop_host_test",
   "overriddenProperties":[],
   "parent":{
-    "name":"Shop",
-    "path":"folders/Objects/Shop.yy",
+    "name":"host",
+    "path":"folders/Objects/Shop/host.yy",
   },
   "parentObjectId":{
     "name":"shop_host",

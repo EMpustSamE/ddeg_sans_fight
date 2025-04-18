@@ -1,29 +1,29 @@
 {
-    "item.eat": "* You ate the {insert ITEM}.",
-    "item.equip": "* You equiped the {insert ITEM}.",
-    "item.heal.part": "* You recovered {insert HP} HP!",
-    "item.heal.all": "* Your HP was maxed out.",
+    "item.eat": "* 你吃掉了{insert ITEM}。",
+    "item.equip": "* 你装备了{insert ITEM}。",
+    "item.heal.part": "* 你回复了{insert HP}HP！",
+    "item.heal.all": "* 你的HP回满了。",
     
-    "item.drop.0": "* The {insert ITEM} was&  thrown away.",
-    "item.drop.1": "* You bid a quiet farewell&  to the {insert ITEM}.",
-    "item.drop.2": "* You put the {insert ITEM}&  on the ground and gave it a&  little pat.",
-    "item.drop.3": "* You threw the {insert ITEM}&  on the ground like the piece&  of trash it is.",
-    "item.drop.4": "* You abandoned the &  {insert ITEM}.",
+    "item.drop.0": "* {insert ITEM} 被&  丢掉了。",
+    "item.drop.1": "* 你悄悄地&  告别了{insert ITEM}.",
+    "item.drop.2": "* 你把{insert ITEM}放在了&  地上然后给了它一个&  轻轻的抚摸。",
+    "item.drop.3": "* 你把{insert ITEM}  像一个垃圾一样&  扔在了地上。",
+    "item.drop.4": "* 你抛弃了&  {insert ITEM}。",
 
-    "item.stick.name": "Stick",
+    "item.stick.name": "树枝",
     "item.stick.info": "* Stick - Weapon AT 0&* Its bark is worse than&  its bite.",
     "item.stick.use": "* You threw the stick away.{sleep 20}&* Then picked it back up.",
 
-    "item.bandage.name": "Bandage",
+    "item.bandage.name": "绷带",
     "item.bandage.info": "* Bandage - Heals 10 HP&* It has already been used&  several times.",
     "item.bandage.use.0": "* You re-applied the bandage.",
     "item.bandage.use.1": "* Still kind of gooey.",
 
-    "item.toy_knife.name": "Toy Knife",
+    "item.toy_knife.name": "玩具刀",
     "item.toy_knife.info": "* Toy Knife - Weapon AT 3&* Made of plastic.&* A rarity nowadays.",
 
-    "item.faded_ribbon.name": "Faded Ribbon",
-    "item.faded_ribbon.name.short": "Ribbon",
-    "item.faded_ribbon.name.short.serious": "Ribbon",
+    "item.faded_ribbon.name": "褪色丝带",
+    "item.faded_ribbon.name.short": "丝带",
+    "item.faded_ribbon.name.short.serious": "丝带",
     "item.faded_ribbon.info": "* Faded Ribbon - Armor DF 3&* If you're cuter,{sleep 20} monsters&  won't hit you as hard."
 }

@@ -1,4 +1,4 @@
 // Inherit the parent event
 event_inherited();
 
-event = global.event_overworld;
+event = Event_Create();
