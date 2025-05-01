@@ -4,7 +4,7 @@ var flag = Storage_GetTempGeneral();
 if(quit){
 	flag.Set(FLAG_TEMP_TRIGGER_WARP_LANDMARK, 0);
 	flag.Set(FLAG_TEMP_TRIGGER_WARP_DIR, DIR.DOWN);
-	room_goto(room_area_0);
+	room_goto(room_lobby);
 }else{
 	switch choice{
 	case -1:

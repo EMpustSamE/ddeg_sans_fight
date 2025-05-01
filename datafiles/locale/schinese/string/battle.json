@@ -9,7 +9,13 @@
     "battle.result.fled.reward": "* 带着 {insert EXP} EXP 和 {insert GOLD} GOLD&  逃跑了。",
     "battle.result.lv_up": "* 你的 LOVE 增加了。",
 
-    "battle.enemy.test.name": "测试敌人",
+    "battle.enemy.test.name": "* 测试敌人",
     "battle.enemy.test.act.0": "* 查看",
-    "battle.enemy.test.act.1": "* 交谈"
+    "battle.enemy.test.act.1": "* 交谈",
+
+    "battle.enemy.sans.name": "* Sans",
+    "battle.enemy.sans.act.0": "* 查看",
+    "battle.enemy.sans.act.1": "* 交谈",
+    "battle.enemy.sans.actdia.0": "* 查看",
+    "battle.enemy.sans.actdia.1": "* 交谈"
 }

@@ -2,6 +2,6 @@
 event_inherited();
 
 audio_time = 0;
-audio = audio_play_sound(bgm_sans_sndencstart,5,false);
+BGM_Play(5,bgm_sanssndencstart,false);
 
 beat = new Beat(128);

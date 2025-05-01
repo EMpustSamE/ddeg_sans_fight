@@ -20,6 +20,6 @@
     "shop.emp.talk.0.ans": "* 这游戏?{sleep 10}&* 这游戏还没弄完呢。",
     "shop.emp.talk.1.ans": "* 我?{sleep 10}&* 我啥也不是。",
     "shop.emp.talk.2.ans": "* bug?{sleep 10}&* 联系我就行。{sleep 10}&* QQ:3213409620。",
-    "shop.emp.talk.3.ans": "* 是我知道。{sleep 10}&* 但我没钱约贴图，&  我只能自己整了。",
-    "shop.emp.exit": "拜拜,下次买东西见。"
+    "shop.emp.talk.3.ans": "* 是我知道。{sleep 10}&* 但我没钱约贴图，{sleep 10}我只能自己整了。",
+    "shop.emp.exit": "* 拜拜,下次买东西见。"
 }

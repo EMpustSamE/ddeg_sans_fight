@@ -19,9 +19,9 @@ sold_available = false;
 sold_false_text = Lang_GetString("shop.emp.sell");
 
 dialog_before_text = Lang_GetString("shop.emp.talk");
-dialog[0] = Shop_SetDialog(Lang_GetString("shop.emp.talk.0"),c_white,Lang_GetString("shop.emp.talk.0.ans"));
-dialog[1] = Shop_SetDialog(Lang_GetString("shop.emp.talk.1"),c_white,Lang_GetString("shop.emp.talk.1.ans"));
-dialog[2] = Shop_SetDialog(Lang_GetString("shop.emp.talk.2"),c_white,Lang_GetString("shop.emp.talk.2.ans"));
-dialog[3] = Shop_SetDialog(Lang_GetString("shop.emp.talk.3"),c_white,Lang_GetString("shop.emp.talk.3.ans"));
+
+for(var i = 0;i < 3;i ++){
+	Shop_SetDialog(Lang_GetString("shop.emp.talk." + string(i)),c_white,Lang_GetString("shop.emp.talk." + string(i) + ".ans"));
+}
 
 exit_text = Lang_GetString("shop.emp.exit");

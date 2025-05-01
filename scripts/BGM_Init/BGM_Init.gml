@@ -9,7 +9,8 @@ function BGM_Init() {
 	}
 	
 	{
-		if(!file_exists(working_directory+"bgm_sans_sndencstart.ogg")){show_error("'working_directory+\"bgm_sans_sndencstart.ogg\"' doesn't exists.",true)};global._bgm_sans_sndencstart=audio_create_stream(working_directory+"bgm_sans_sndencstart.ogg");#macro bgm_sans_sndencstart global._bgm_sans_sndencstart
+		if(!file_exists(working_directory+"bgm_sanssndencstart.ogg")){show_error("'working_directory+\"bgm_sanssndencstart.ogg\"' doesn't exists.",true)};global._bgm_sanssndencstart=audio_create_stream(working_directory+"bgm_sanssndencstart.ogg");#macro bgm_sanssndencstart global._bgm_sanssndencstart
+		if(!file_exists(working_directory+"bgm_sanssndenc.ogg")){show_error("'working_directory+\"bgm_sanssndenc.ogg\"' doesn't exists.",true)};global._bgm_sanssndenc=audio_create_stream(working_directory+"bgm_sanssndenc.ogg");#macro bgm_sanssndenc global._bgm_sanssndenc
 		if(!file_exists(working_directory+"bgm_sansdate.ogg")){show_error("'working_directory+\"bgm_sansdate.ogg\"' doesn't exists.",true)};global._bgm_sansdate=audio_create_stream(working_directory+"bgm_sansdate.ogg");#macro bgm_sansdate global._bgm_sansdate
 		if(!file_exists(working_directory+"bgm_sansnep1.ogg")){show_error("'working_directory+\"bgm_sansnep1.ogg\"' doesn't exists.",true)};global._bgm_sansnep1=audio_create_stream(working_directory+"bgm_sansnep1.ogg");#macro bgm_sansnep1 global._bgm_sansnep1
 		if(!file_exists(working_directory+"bgm_sansnep2.ogg")){show_error("'working_directory+\"bgm_sansnep2.ogg\"' doesn't exists.",true)};global._bgm_sansnep2=audio_create_stream(working_directory+"bgm_sansnep2.ogg");#macro bgm_sansnep2 global._bgm_sansnep2

@@ -12,7 +12,7 @@ function Event_Choice(){
 		TEXT: TEXT
 	},
 	function(){
-		Dialog_Add(TEXT+"{choice `CHOICE`}");
+		Dialog_Add(TEXT+"{choice `TMP`}");
 		Dialog_Start();
 	}),
 	method(
@@ -20,7 +20,6 @@ function Event_Choice(){
 		RESULT: RESULT
 	},
 	function(){
-		show_debug_message("Choice Update");
 		if(!Dialog_IsEmpty()||(instance_exists(ui_dialog)&&instance_exists(ui_dialog._inst))){
 			return true;
 		}
